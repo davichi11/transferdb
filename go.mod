@@ -4,7 +4,6 @@ go 1.19
 
 require (
 	github.com/BurntSushi/toml v0.4.1
-	github.com/godror/godror v0.33.0
 	github.com/jedib0t/go-pretty/v6 v6.2.4
 	github.com/pingcap/log v0.0.0-20201112100606-8f1e84a3abc8
 	github.com/pingcap/parser v0.0.0-20200623164729-3a18f1e5dceb
@@ -12,6 +11,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/scylladb/go-set v1.0.2
 	github.com/shopspring/decimal v1.3.1
+	github.com/sijms/go-ora/v2 v2.5.21
 	github.com/thinkeridea/go-extend v1.3.2
 	github.com/valyala/fastjson v1.6.3
 	github.com/xxjwxc/gowp v0.0.0-20200603141413-57c3ba7108be
@@ -28,12 +28,10 @@ require (
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548 // indirect
 	github.com/fatih/color v1.13.0 // indirect
-	github.com/go-logfmt/logfmt v0.5.1 // indirect
-	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
-	github.com/godror/knownpb v0.1.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.4 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3 // indirect
